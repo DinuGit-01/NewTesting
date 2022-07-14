@@ -1,0 +1,19 @@
+<suite name="ListenerSuite">
+<listeners>
+<listener class-name="TestablePackage.SimpleListener"/>
+
+</listeners>
+<test name="LoginTest">
+<classes>
+<class name="TestablePackage.ListenerLogin"/>
+
+
+
+
+
+
+</classes>
+
+
+</test>
+</suite>

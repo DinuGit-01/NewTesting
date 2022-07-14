@@ -1,0 +1,19 @@
+
+
+
+
+<suite name="Paratest">
+<test name="testDDT">
+<parameter name="username" value="admin"/>
+<parameter name="password" value="manager"/>
+<classes>
+
+<class name="TestablePackage.Parameterization"/>
+
+</classes>
+
+
+
+</test>
+
+</suite>

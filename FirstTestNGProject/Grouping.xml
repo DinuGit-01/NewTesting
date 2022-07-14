@@ -1,0 +1,22 @@
+<suite name="NewGroup">
+<test name="groupTest">
+<groups>
+<run>
+
+<include name="tester"/>
+<include name="Oops"/>
+
+</run>
+
+
+</groups>
+
+<classes>
+
+<class name="TestablePackage.GroupingTest"/>
+
+
+</classes>
+</test>
+
+</suite>

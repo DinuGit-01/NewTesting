@@ -1,0 +1,23 @@
+<suite name="MySuite">
+<test name="QATesting">
+<classes>
+<class name="TestablePackage.CreateAccount"/>
+<class name="TestablePackage.SceenShot"/>
+<class name="TestablePackage.FrameHandle"/>
+
+
+</classes>
+
+
+
+
+</test>>
+
+
+
+
+
+
+
+
+</suite>
